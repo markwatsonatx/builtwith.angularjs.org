@@ -3580,7 +3580,22 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+	{
+      "name": "KINFISH",
+      "thumb": "kinfish/thumb.png",
+      "desc": "Private, Kid Friendly, Safe Social Network for the Family",
+      "url": "https://app.kinfish.com",
+      "info": "http://www.kinfish.com/",
+      "src": "",
+      "submitter": "markwatsonatx",
+      "submissionDate": "2014-05-01",
+      "tags": [
+        "Production",
+        "Social Networking",
+        "UI Router",
+        "No jQuery"
+      ]
     }
-
   ]
 }
